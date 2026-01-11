@@ -16,14 +16,8 @@ The game emphasizes precision, timing, and quick reactions.
 ---
 
 ## ▶️ Play the Game
-You can try the game by running the build that matches your platform.
+You can try the game free in https://shonhason.github.io/Unity-RocketBooster/
 
-📁 **Build Folder:**  
-/build
-
-Select the appropriate folder based on your operating system (Windows, macOS, or Linux), and launch the executable.
-
----
 
 ## 💬 Feedback
 I would really appreciate any feedback or constructive criticism.  
