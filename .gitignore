@@ -34,7 +34,6 @@ AddressableAssetsData/*/Builds/
 
 # === Gradle / Android ===
 .gradle/
-**/build/
 
 # === iOS / Xcode ===
 *.xcworkspace
